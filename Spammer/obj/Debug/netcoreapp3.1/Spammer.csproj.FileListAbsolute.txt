@@ -1,0 +1,17 @@
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.csproj.AssemblyReference.cache
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.Form1.resources
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.csproj.GenerateResource.cache
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.AssemblyInfoInputs.cache
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.AssemblyInfo.cs
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.csproj.CoreCompileInputs.cache
+D:\Projektek\C#Forms\Spammer\Spammer\bin\Debug\netcoreapp3.1\Spammer.exe
+D:\Projektek\C#Forms\Spammer\Spammer\bin\Debug\netcoreapp3.1\Spammer.deps.json
+D:\Projektek\C#Forms\Spammer\Spammer\bin\Debug\netcoreapp3.1\Spammer.runtimeconfig.json
+D:\Projektek\C#Forms\Spammer\Spammer\bin\Debug\netcoreapp3.1\Spammer.runtimeconfig.dev.json
+D:\Projektek\C#Forms\Spammer\Spammer\bin\Debug\netcoreapp3.1\Spammer.dll
+D:\Projektek\C#Forms\Spammer\Spammer\bin\Debug\netcoreapp3.1\Spammer.pdb
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.dll
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.pdb
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.genruntimeconfig.cache
+D:\Projektek\C#Forms\Spammer\Spammer\obj\Debug\netcoreapp3.1\Spammer.Properties.Resources.resources

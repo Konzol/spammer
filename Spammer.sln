@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spammer", "Spammer\Spammer.csproj", "{97C4C33D-2948-4611-A5EB-0B7481BDDAA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C4C33D-2948-4611-A5EB-0B7481BDDAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C4C33D-2948-4611-A5EB-0B7481BDDAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C4C33D-2948-4611-A5EB-0B7481BDDAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C4C33D-2948-4611-A5EB-0B7481BDDAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3D708FE-DDE5-4255-AF24-C7A290853B30}
+	EndGlobalSection
+EndGlobal
